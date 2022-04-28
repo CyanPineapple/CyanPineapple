@@ -1,19 +1,8 @@
 ### There Hi 👋
 
-
-
-.-. .-. .   .     .  . .-.   
- |  |-  |   |     |\/| |-    
- '  `-' `-' `-'   '  ` `-'   
-. . . . . .-. .-.   . . .-. . .   .-. .-. . . . . .-. 
-| | | |-| |-|  |     |  | | | |   |.. | | |\| |\| |-| 
-`.'.' ' ` ` '  '     `  `-' `-'   `-' `-' ' ` ' ` ` '                          
-.-. .-.   .-. .-.   .  . .-. 
-|  )| |    |  | |   |\/| |-  
-`-' `-'    '  `-'   '  ` `-' 
-                             
-ASDgdfffffffffffffffffffffffffffffffffffffffffffffffffffffff
-                                                                                                                                   
+- 🔭 I’m currently working on survive!
+- 🌱 I’m currently learning how to love.                                                                                                                    
+- 💬 Ask me about Haskell cuz I know nothing about it.
 <!--
 **CyanPineapple/CyanPineapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
