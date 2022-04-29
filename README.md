@@ -1,6 +1,6 @@
 ### erehT iH 👋
 
-- 🔭 I’m currently working on survive!
+- 🔭 I’m currently working on survival!
 - 🌱 I’m currently learning how to love.                                                                                                                    
 - 💬 Ask me about Haskell cuz I know nothing about it.
 <!--
