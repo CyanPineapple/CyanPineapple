@@ -1,8 +1,8 @@
 ### erehT iH 👋
 
-- 🔭 I’m currently working on survival!
+- 🔭 I’m currently working on runaway.
 - 🌱 I’m currently learning how to love.                                                                                                                    
-- 💬 Ask me about Haskell cuz I know nothing about it.
+- 💬 Communicate with me about computer systems (also distributed systems).
 <!--
 **CyanPineapple/CyanPineapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
