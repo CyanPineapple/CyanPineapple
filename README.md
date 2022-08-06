@@ -1,6 +1,6 @@
 ### erehT iH 👋
 
-- 🔭 I’m currently working on runaway.
+- 🔭 I’m currently working on survival.
 - 🌱 I’m currently learning how to love.                                                                                                                    
 - 💬 Discuss with me about computer systems (also distributed systems).
 <!--
