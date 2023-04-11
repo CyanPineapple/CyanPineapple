@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on survival.
 - 🌱 I’m currently learning how to love.                                                                                                                    
-- 💬 Discuss with me about computer systems (also distributed systems).
+- 💬 Discuss with me about computer systems, theory, formal methods ...
 <!--
 **CyanPineapple/CyanPineapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
